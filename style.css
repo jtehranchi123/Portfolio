@@ -141,9 +141,10 @@ body {
 
 
 
+
 .letter-image {
 	 position: absolute;
-	 top: 90%;
+	 margin-top: auto; 
 	 left: 50%;
 	 width: 200px;
 	 height: 200px;
