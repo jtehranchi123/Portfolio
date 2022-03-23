@@ -30,10 +30,14 @@ body {
   text-align: center;
 }
 
+
+
 .firstDiv {
     text-align: center;
     justify-content: space-between;
 }
+
+
 
 #mailColor{
     background-color: #F6AE2D
@@ -50,7 +54,6 @@ body {
 
 .jumbotron{
     background-color: rgba(0, 0, 255, 0);
-    color: white
     
 }
 
@@ -65,7 +68,8 @@ body {
 
 #myTitle {
     font-family: brandon-grotesque, sans-serif;
-    font-size: 59px;
+   
+	font-size: 6vh;
     font-style: normal;
     font-weight: bold;
     letter-spacing: 11px;
@@ -85,7 +89,7 @@ body {
 	color: orange;
 	letter-spacing: 2px;
     font-family: adobe-caslon-pro;
-    font-size: 24px;
+    font-size: 3vh;
     font-style: italic;
 }
 
